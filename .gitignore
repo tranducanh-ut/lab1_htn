@@ -1,0 +1,11 @@
+# Zephyr build output
+build/
+
+# Copied ST-LINK driver package (not project code)
+STSW-LINK009/
+
+# Course documents
+*.pdf
+
+# Office temp/lock files
+~$*
